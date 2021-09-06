@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Это мой личный блог, в котором я публикую как наиболее яркие события собственной жизни дневникового характера. так и просто размышления о жизни и моем отношении к разным ситуациям. С одной стороны, у меня есть некая толика потребности в писательстве, с другой стороны, позволяет фиксировать некторые детали событий, которые с течением времени выветрятся из памяти, ну и наконец данный блог легко позволяет заочно познакомить с собственной персоной неограниченный круг читателей.
 
-You can find the source code for Minima at GitHub:
+Данный блог использует тему Jekyll Minima и был бы невозможен без github и Jekyll 
+
+Исходный код темы Minima на GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
+Исходный код Jekyll на GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
